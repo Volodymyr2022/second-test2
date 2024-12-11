@@ -1,2 +1,2 @@
 Second test for git hub
-New sstring
+New string
